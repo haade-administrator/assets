@@ -1,3 +1,7 @@
+<head>
+  <link rel="preload" href="/assets/fonts/GROBOLD.ttf" as="font" type="font/ttf" crossorigin>
+</head>
+
 # assets
 assets of weblogo haade
 

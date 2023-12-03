@@ -67,12 +67,6 @@
            d="M 0,0 H 500 V 500 H 0 Z" />
       </g>
     </clipPath>
-   <style>
-      @font-face {
-        font-family: "GROBOLD";
-        src: url("./assets/fonts/GROBOLD.ttf");
-      }
-    </style>
   </defs>
   <g
      inkscape:label="Calque 1"
