@@ -8,7 +8,10 @@ assets of weblogo haade
 ## Old Logo
 
 ![legacy official logo png](assets/logo-legacy.png)
+
 ![legacy official newsletter logo png](assets/logo-legacy-newsletter.png)
+
 ![legacy official logo pink](assets/logo-legacy-pink.png)
-![legacy official logo skyblue](assets/logo-legacy-skyblue)
+
+![legacy official logo skyblue](assets/logo-legacy-skyblue.png)
 
