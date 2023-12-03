@@ -4,16 +4,20 @@ assets of weblogo haade
 ## New logo PNG
 
 ### New Official Logo 12/2023
-![New logo png](assets/logo.png)
+![New logo png](assets/New/logo.png)
+
+## New logo SVG
+
+![Social logo](assets/New/social-logo.png)
 
 ## Old Logo PNG
 
 ### Official logo legacy
-![legacy official logo png](assets/logo-legacy.png)
+![legacy official logo png](assets/Legacy/logo-legacy.png)
 ### Official logo legacy newsletter
-![legacy official newsletter logo png](assets/logo-legacy-newsletter.png)
+![legacy official newsletter logo png](assets/Legacy/logo-legacy-newsletter.png)
 ### Official logo legacy pink
-![legacy official logo pink](assets/logo-legacy-pink.png)
+![legacy official logo pink](assets/Legacy/logo-legacy-pink.png)
 ### Official logo legacy skyblue
-![legacy official logo skyblue](assets/logo-legacy-skyblue.png)
+![legacy official logo skyblue](assets/Legacy/logo-legacy-skyblue.png)
 
