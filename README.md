@@ -1,7 +1,3 @@
-<head>
-  <link rel="preload" href="assets/fonts/GROBOLD.ttf" as="font" type="font/ttf" crossorigin>
-</head>
-
 # assets
 assets of weblogo haade
 
@@ -9,8 +5,7 @@ assets of weblogo haade
 
 ### New Official Logo 12/2023
 ![New logo png](assets/New/logo.png)
-**New logo SVG**
-![New logo svg](assets/New/logo.svg)
+
 ### Social logo SVG
 
 ![Social logo](assets/New/social-logo.png)
