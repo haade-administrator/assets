@@ -70,7 +70,7 @@
    <style>
       @font-face {
         font-family: "GROBOLD";
-        src: url("../assets/fonts/GROBOLD.ttf");
+        src: url("./assets/fonts/GROBOLD.ttf");
       }
     </style>
   </defs>
