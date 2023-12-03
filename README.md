@@ -9,6 +9,7 @@ assets of weblogo haade
 ## New logo SVG
 
 ![Social logo](assets/New/social-logo.png)
+![Social logo backdark white](assets/New/logo-backdark-white.svg)
 
 ## Old Logo PNG
 
