@@ -5,8 +5,9 @@ assets of weblogo haade
 
 ### New Official Logo 12/2023
 ![New logo png](assets/New/logo.png)
-
-## New logo SVG
+**New logo SVG**
+![New logo svg](assets/New/logo.svg)
+### Social logo SVG
 
 ![Social logo](assets/New/social-logo.png)
 ![Social logo backdark white](assets/New/social-logo-backdark-white.png)
