@@ -5,6 +5,7 @@ assets of weblogo haade
 
 ### New Official Logo 12/2023
 ![New logo png](assets/New/logo.png)
+
 ![New logo Christmas 2023](assets/New/logo-christmas.png)
 
 ![New logo-dark png](assets/New/logo-dark.png)
