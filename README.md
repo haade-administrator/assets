@@ -7,7 +7,11 @@ assets of weblogo haade
 ![New logo png](assets/New/logo.png)
 ![New logo Christmas 2023](assets/New/logo-christmas.png)
 
-### Social logo SVG
+![New logo-dark png](assets/New/logo-dark.png)
+
+![New logo-white png](assets/New/logo-white.png)
+
+### Social logo PNG
 
 ![Social logo](assets/New/social-logo.png)
 ![Social logo backdark white](assets/New/social-logo-backdark-white.png)
